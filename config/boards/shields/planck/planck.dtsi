@@ -31,7 +31,7 @@
 
  matrix_physical_layout: matrix_physical_layout {
  	 compatible = "zmk,physical-layout";
- 	 display-name = "PLANCKEYS default";
+ 	 display-name = "Planckeys/Dongle default";
  	
 	 transform = <&default_transform>;
  keys  //                     w   h    x    y     rot    rx    ry

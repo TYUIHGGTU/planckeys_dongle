@@ -6,7 +6,7 @@
 if SHIELD_EYESLASH_CENTRAL_DONGLE
 
 config ZMK_KEYBOARD_NAME
-		default "Planckeys"
+		default "Planckeys/CNC"
 
 config ZMK_SPLIT_ROLE_CENTRAL
 		default y
